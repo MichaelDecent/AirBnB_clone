@@ -24,7 +24,7 @@ section.filters button {
     margin: 14px 30px;
 
 }
-
+/* TO CHANGE OPACITY WHEN A MOUSE IS HOVERED*/
 section.filters button:hover {
     opacity: 90%;   
 }
@@ -80,7 +80,7 @@ section.filters button:hover {
 
 }
 
-/* TO DISPLAY A CONTEXUAL DROPDOWN WHEN MOUSE IS HOVERED IT*/
+/* TO DISPLAY A CONTEXUAL DROPDOWN WHEN MOUSE IS HOVERED*/
 .locations:hover .popover,
 .amenities:hover .popover {
     display: block;
